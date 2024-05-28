@@ -1,0 +1,98 @@
+#inputName4 {
+    width: 400px;
+}
+
+#inputLastname4 {
+    position: relative;
+    bottom: 48px;
+    left: 44%;
+    width: 495px;
+}
+
+.tag {
+    display: flex;
+    position: absolute;
+    left: 13px;
+    top: 55px;
+}
+
+.tag1 {
+    display: inline-block;
+    margin-right: 21%;
+    margin-top: 10px;
+    font-size: small;
+}
+
+.form-label::after {
+    content: "*";
+    color: red;
+}
+
+.col-md-6 {
+    margin-top: 10px;
+}
+
+.move {
+    display: block;
+    margin: 20px;
+}
+
+.mb-3 {
+    display: block;
+    padding: 0px;
+    margin: 20px;
+}
+
+#exampleFormControlInput1 {
+    width: 48%;
+}
+
+.star {
+    position: relative;
+    bottom: 70px;
+    z-index: -2;
+    margin: 12px;
+    height: 150px;
+}
+
+#abc {
+    margin: 20px;
+}
+
+.comment {
+    position: relative;
+    bottom: 150px;
+    margin-top: 0px;
+    padding: 23px;
+}
+
+.item {
+    width: 500px;
+    text-align: start;
+}
+
+table,
+th,
+td {
+    text-align: center;
+}
+
+.comment3{
+    margin-top: 50px;
+}
+
+.form-floating{
+    margin-left: 19px;
+    width: 98%;
+}
+
+#btn{
+    margin-left: 19px;
+    margin-top: 20px;
+
+}
+
+.move1{
+    position: relative;
+    bottom: 150px;
+}
